@@ -14,18 +14,8 @@ sum = 1+2+3+...+10 = 55 */
 #include <stdio.h>
 int main() {
 
-  int n,a=1,d=1;
-  int s;//sum
-
-
-  printf("Enter value of n = ");
-  scanf("%d",&n);
-
-  s = (n/2)*(2*a + (n - 1)*d);
-
-  printf("Sum = %d",s);
-
-
+  
+  
   return 0;
 }
 
